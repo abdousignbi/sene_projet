@@ -22,6 +22,7 @@ function find_allll_categorie():array{
  
 }
 
+
 function update_categorie($id,$nom_categorie):array{
   $PDO=ouvrir_connexion_bd();
   
